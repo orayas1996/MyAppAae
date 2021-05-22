@@ -25,3 +25,5 @@ public class MainActivity extends AppCompatActivity {
         ((TextView) findViewById(R.id.tv_greeting)).setTextColor(getResources().getColor(R.color.tv_greeting));
     }
 }
+
+  
